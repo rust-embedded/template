@@ -1,0 +1,7 @@
+[package]
+name = "rust-embedded-template"
+version = "0.1.0"
+authors = ["The TeamName Team <team-name@teams.rust-embedded.org>"]
+edition = "2018"
+
+[dependencies]
